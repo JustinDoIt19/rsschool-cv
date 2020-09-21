@@ -21,3 +21,36 @@ advantage of my knowledge of English.
 - 2006/2011 Samara National Research University, Faculty of Economics and
   Management
 - A lot of soft-skills trainings
+
+## Tech Skills
+
+- HTML
+- CSS
+- GIT
+- JS
+- Markdown
+- MS Excel
+- MS Office
+
+## Soft Skills
+
+- Time-management
+- Flexibility
+- Stress-resistance
+- Staff management
+- Teamwork
+- Agile
+- Presentation skills
+- Project experience
+
+## Work experience
+
+- Alfa-Bank 2018-2020 Head of the group
+- Alfa-Bank 2015-2018 Chief specialist by the support and control
+- Alfa-Bank 2011-2015 From specialist to deputy director of the office
+
+## My projects
+
+## English
+
+- Courses at GoEnglish school (B1)
